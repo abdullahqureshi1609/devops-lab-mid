@@ -1,0 +1,9 @@
+services:
+  task-manager:
+    # This tells Compose where to find the Dockerfile (the dot means current folder)
+    build: .
+    # This automatically tags your image just like the '-t' flag did
+    image: abdullahqureshi1609/task-manager-app:v1
+    # This maps your computer's port 3000 to the container's port 3000
+    ports:
+      - "3000:3000"
