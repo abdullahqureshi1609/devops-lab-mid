@@ -4,10 +4,6 @@ This repository demonstrates a complete Cloud Computing Deployment Pipeline, tak
 
 This project was developed as part of the **CSC418: DevOps for Cloud Computing** course at COMSATS University Islamabad, Lahore Campus.
 
-## 📋 Project Links
-* **Live Azure Deployment:** [Insert your Azure Public IP Link here, e.g., http://20.114.x.x]
-* **Docker Hub Image:** [Insert your Docker Hub Image Link here]
-* **GitHub Repository:** [Insert your GitHub Repo Link here]
 
 ## 🛠️ Technology Stack
 * **Application:** Node.js (Backend/Frontend), Database Integration
